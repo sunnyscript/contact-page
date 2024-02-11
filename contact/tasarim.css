@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Rene Bieder - Choplin Medium";
+}
+.info-box{
+	display: flex;
+}
+.text-box{
+	margin-top: 120px;
+	margin-left: 220px;
+	width: 25em;
+	border-right: 1px solid black;
+}
+.contact-box{
+  	width: 70em;	
+  	justify-content: center;
+  	align-items: center;
+  	text-align: center;
+}
+.icons{
+	margin: 0px;
+	padding: 0px;
+	width: 28px;
+	height: 28px;
+	margin: 5px;
+}
+.log, .btn{
+	margin-left: 73px;
+	width: 50em;
+	margin-top: 50px;
+}
+.log:first-child{
+	margin-top: 40px;
+}
